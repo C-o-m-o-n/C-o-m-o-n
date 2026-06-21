@@ -1,5 +1,8 @@
 # Hi there, I'm Collins 👋
 
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/C-o-m-o-n.svg)](https://ghcommits.com/u/C-o-m-o-n)
+
+
 > "Move fast and break things.... then fix them later :)"
 
 I am a Fullstack Engineer & DevOps Enthusiast focused on building high-performance web applications, robust mobile experiences, and maintaining my own self-hosted infrastructure. 
